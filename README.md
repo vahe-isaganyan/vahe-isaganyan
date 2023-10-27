@@ -25,8 +25,3 @@ Hello, thank you for visiting my profile :)
 - Blender
 - Unreal Engine 5
 - Shader programming
-
-**Currently Learning**
-- Shader programming
-- Blender
-- Unreal Engine 5
