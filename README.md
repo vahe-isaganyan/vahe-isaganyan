@@ -1,4 +1,4 @@
-Hello, thank you for visiting my profile :)
+Hello, thank you for visiting my profile.
 
 **About Me**
 - Computer Science graduate
@@ -6,8 +6,7 @@ Hello, thank you for visiting my profile :)
 - I speak Armenian, English, French, and Spanish
 
 **Interests**
-- Android development
-- Game development
+- Software development: game development especially
 - Music production
 
 **Programming languages**
