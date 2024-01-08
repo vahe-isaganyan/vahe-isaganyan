@@ -22,5 +22,4 @@ Hello, thank you for visiting my profile.
 
 **Currently Learning**
 - Blender
-- Unreal Engine 5
 - Shader programming
